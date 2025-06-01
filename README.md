@@ -1,1 +1,1 @@
-# spotify_songs_SQL
+This project focuses on mastering SQL concepts by analyzing a simulated Spotify tracks dataset. It addresses real-world music industry questions and provides solutions using SQL queries, such as calculating song popularity trends, analyzing artist and genre performance, understanding listener preferences, and identifying patterns in audio features over time.
