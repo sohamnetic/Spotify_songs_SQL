@@ -1,0 +1,29 @@
+1)List all artists ordered by the number of songs they have in the dataset.
+
+2)What is the average danceability and energy score by genre?
+
+3)What are the top 10 most popular songs of all time?
+
+4)Which year had the highest number of song releases?
+
+5)Find the top 5 artists with the highest average loudness.
+
+6)List all genres with average popularity above 70.
+
+7)For each year, rank the top 3 songs by popularity.
+
+8)How has the average energy of songs changed over years?
+
+9)Is there a trend in valence (positiveness) over time?
+
+10)Which genre has the highest average instrumentalness?
+
+11)Which artist’s songs are most likely to be acoustic?
+
+12)Identify songs with low popularity (popularity < 60) but high energy and danceability (both > 0.8).
+
+13)What is the relationship between song duration and popularity? Group songs by duration ranges (e.g., short, medium, long) and compare average popularity.
+
+14)What is the difference in average loudness and energy between explicit and non-explicit songs?
+
+15)For each year, what is the song with the highest energy level?
